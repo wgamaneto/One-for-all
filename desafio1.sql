@@ -1,3 +1,6 @@
+
+-- Agradecimentos a Caren, Pedro e mais um monte de gente q me ajudou!
+
 DROP DATABASE IF EXISTS SpotifyClone;
 
   CREATE DATABASE IF NOT EXISTS SpotifyClone;
